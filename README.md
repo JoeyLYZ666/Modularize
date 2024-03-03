@@ -12,3 +12,7 @@ With the widespread success of deep learning technologies, many trained deep neu
 ```
 <br>
 
+
+## Modular tools: GradSplitter & SEAM
+[GradSplitter](https://github.com/qibinhang/GradSplitter)
+[SEAM](https://github.com/qibinhang/SeaM)
