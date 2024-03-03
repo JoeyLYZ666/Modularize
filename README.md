@@ -8,7 +8,6 @@ With the widespread success of deep learning technologies, many trained deep neu
   |--- data/                      :  trained models, datasets and modules
   |--- grad-application/          :  modularize GCN on R8 through GradSplitter
   |--- seam-application/          :  modularize LSTM on R8 through SEAM
-  |--- other\                     :  The model training code pulled from Github and the processed dataset (specific URLs can be found in README.md in both project directories)
 ```
 <br>
 
